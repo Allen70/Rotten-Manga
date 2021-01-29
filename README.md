@@ -32,13 +32,11 @@ A critic who's logged in will have access to rating managas. A user will still h
   Video coming soon
   
 ## Status 
-  Curreent status: Incomplete 
   
-  Upcoming features:
-  -Web Page automatically sorts and filters based on preferences update
-  -user login and ratings attached to each user
-  -critic login and ratings attached to each critice.
-  -user and critic ratings appear along-side each manga
+-Web Page automatically sorts and filters based on preferences update
+-user login and ratings attached to each user
+-critic login and ratings attached to each critice.
+-user and critic ratings appear along-side each manga
  
  ## Contact 
  
