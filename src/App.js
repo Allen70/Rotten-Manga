@@ -4,10 +4,12 @@ import { useState } from 'react'
 import './App.css';
 
 function App() {
+
   let [userType, setUserType] = useState("user")
+
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar clickAction={setUserType}/>
       <MangaPage userType={userType}/>
     </div>
   )
